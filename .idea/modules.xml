@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/inDepth/registration-login-spring-boot-security-thymeleaf-hibernate-master/registration-login-spring-boot-security-thymeleaf.iml" filepath="$PROJECT_DIR$/inDepth/registration-login-spring-boot-security-thymeleaf-hibernate-master/registration-login-spring-boot-security-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registration-login-spring-boot-security-thymeleaf-hibernate-master/registration-login-spring-boot-security-thymeleaf (1).iml" filepath="$PROJECT_DIR$/registration-login-spring-boot-security-thymeleaf-hibernate-master/registration-login-spring-boot-security-thymeleaf (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/security.iml" filepath="$PROJECT_DIR$/.idea/security.iml" />
     </modules>
   </component>
